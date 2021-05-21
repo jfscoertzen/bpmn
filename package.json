@@ -39,7 +39,7 @@
     "node-fs": ">= 0.1.5",
     "restify": ">= 2.5.1",
     "sax": ">= 0.5.2",
-    "winston": ">= 0.7.1"
+    "winston": "https://github.com/jfscoertzen/winston"
   },
   "deprecated": false,
   "description": "BPMN 2.0 execution engine",
